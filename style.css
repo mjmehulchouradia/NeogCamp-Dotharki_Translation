@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&amp;display=swap');
+
+:root{
+    border-top-color: grey;
+    background-color: gray;
+}
+
+
+body{
+     font-family:'Poppins 27px',sans-serif;
+      background-color: var(background-color);
+      margin: 0px;
+}
+#header{
+    background-color: black;
+    padding: 0.2rem;
+    border-bottom-left-radius: 0.5rem;
+}
+h1{
+    text-align: center;
+    color: bisque;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.txtarea{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    width: 50%;
+}
+.button1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    color: bisque;
+    background-color: black;
+    padding: 0.5rem 0.5rem;
+
+}
+.text_line{
+    margin-left: 36rem;
+    margin-top: 1.5rem;
+}
+#output{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    width: 50%;
+}
+
+
+/* footer */
+
+.footer{
+    background-color: black;
+    padding: 2rem 0rem;
+    text-align: center;
+    margin-top: 2rem;
+    border-top-right-radius: 1rem;
+}
+.footer-heading{
+    color: bisque;
+    font-weight: bold;
+    font-size: x-large;
+}
+#about{
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    color: bisque;
+}
+
+
